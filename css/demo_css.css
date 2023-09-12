@@ -1,0 +1,29 @@
+body 
+{ background-color : #5D5C61
+
+}
+
+body 
+{
+ text-align: center;
+}
+
+.splash
+{
+    background-color: rgb(255, 255, 0);
+    padding: 200px 0 0 0;
+}
+nav
+{
+    color: red
+    padding 10px;
+    border: solid medium beige;
+}
+h1 
+{
+    color: rgb(255, 255, 255)
+}
+h2
+{
+    color: rgb(0, 145, 255)
+}
